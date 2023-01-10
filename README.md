@@ -7,7 +7,7 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1030&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
-<img align="right" alt="coding" width="520" src="https://media.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif">
+<img align="right" alt="coding" width="473" src="https://media.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif">
 
 
 <!-- <img align="right" alt="coding" width="473" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">-->  
