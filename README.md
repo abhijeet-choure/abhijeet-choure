@@ -3,30 +3,20 @@
 <h3 align="center">Software Test Analyst from India</h3>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1030&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 <img align="right" alt="coding" width="475" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet100793&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet100793" /> </p>
-
-
 
 <p align="left"> <a href="https://twitter.com/bhijeet_choure" target="blank"><img src="https://img.shields.io/twitter/follow/bhijeet_choure?logo=twitter&style=for-the-badge" alt="bhijeet_choure" /></a> </p>
 
-- 🔭 I’m currently working on functional testing, Database testing and Automation Testing 
+- 🔭 I’m currently working on Functional testing, Database testing and Automation Testing 
 
-- 🌱 I’m currently learning **Linear Scripting Framework,POM and Test as per the requirement of the framework, hybrid framework , Cucumber: BDD**
+- 🌱 I’m currently learning **Linear Scripting Framework,POM & Test as per the requirement of the framework, Hybrid framework and Cucumber: BDD**
 
-- 🤝 I’m looking for **an innovative and challenging software development and testing environment**
+- 🤝 I’m looking for **an innovative and challenging software development & testing environment**
 
 - 👨‍💻 All of my projects are available at [https://twitter.com/@bhijeet_choure](https://twitter.com/@bhijeet_choure)
 
@@ -34,7 +24,7 @@
 
 - 💬 Ask me about **Smoke, Functional, System Integration, Retesting, Regression testing.**
 
-- 📫 How to reach me **abhijeetchoure4u@gmail.com**
+- 📫 How to reach me **abhijeet-c@outlook.com**
 
 - ⚡ Fun fact **I am funny 🤣**
 
