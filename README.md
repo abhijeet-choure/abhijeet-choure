@@ -1,4 +1,4 @@
-<img src="https://github.com/abhijeet-choure/abhijeet-choure/blob/main/wp10616070.png?raw=true" width="100%" ><br>
+<img src="https://github.com/abhijeet-choure/abhijeet-choure/blob/main/firewatch-4k-17-1400x900.png?raw=true" width="100%" ><br>
 <h1 align="center"> 𝐀в𝔥ιנ𝑒Ⓔ𝐓</h1>
 <h3 align="center">Software Test Analyst from India</h3>
 
