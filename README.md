@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Functional testing, Database testing and Automation Testing 
 
-- 🌱 I’m currently learning **Linear Scripting Framework, Hybrid framework and Cucumber: BDD, POM & Test as per the requirement of the framework**
+- 🌱 I’m currently learning **Linear Scripting Framework, Hybrid framework, Cucumber: BDD, POM & Test as per the requirement of the framework**
 
 - 🤝 I’m looking for **an innovative and challenging software development & testing environment**
 
