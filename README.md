@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhijeet_choure" target="blank"><img src="https://img.shields.io/twitter/follow/bhijeet_choure?logo=twitter&style=for-the-badge" alt="bhijeet_choure" /></a> </p>
 
-- 🔭 I’m currently working on functional testing, Database testing and Automation Testing 
+- 🔭 I’m currently working on functional testing, Database testing  and Automation Testing 
 
 - 🌱 I’m currently learning **Linear Scripting Framework,POM and Test as per the requirement of the framework, hybrid framework , Cucumber: BDD**
 
