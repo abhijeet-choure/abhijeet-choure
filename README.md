@@ -4,8 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet100793&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet100793" /> </p>
- 
- 
+
+
+
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+
 
 
 <p align="left"> <a href="https://twitter.com/bhijeet_choure" target="blank"><img src="https://img.shields.io/twitter/follow/bhijeet_choure?logo=twitter&style=for-the-badge" alt="bhijeet_choure" /></a> </p>
