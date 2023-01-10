@@ -2,15 +2,15 @@
 <h1 align="center"> 𝐀в𝔥ιנ𝑒Ⓔ𝐓</h1>
 <h3 align="center">Software Test Analyst from India</h3>
 
-
-
-
-<img align="center" alt="coding" width="1080" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
+
+
+
+<img align="right" alt="coding" width="580" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
 
 
 
