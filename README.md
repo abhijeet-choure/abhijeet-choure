@@ -1,5 +1,5 @@
 <img src="https://github.com/abhijeet-choure/abhijeet-choure/blob/main/wp10616070.png?raw=true" width="100%" ><br>
-<h1 align="center">Hi 👋, I'm 𝐀в𝔥ιנ𝑒Ⓔ𝐓</h1>
+<h1 align="center"> 𝐀в𝔥ιנ𝑒Ⓔ𝐓</h1>
 <h3 align="center">Software Test Analyst from India</h3>
 
 
@@ -8,7 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=510&lines=Hi+there+👋,+I+am+𝐀в𝔥ιנ𝑒Ⓔ𝐓;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+
+
+
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet100793&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet100793" /> </p>
