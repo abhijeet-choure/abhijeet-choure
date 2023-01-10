@@ -9,7 +9,7 @@
 
 <!--<img align="right" alt="coding" width="465" src="https://media.tenor.com/RylFIKwXncAAAAAC/japan-aesthetic.gif">-->
 
-<img align="right" alt="coding" width="435" src="https://i.pinimg.com/originals/a0/bf/31/a0bf31b06c55ec7098e7233835be1169.gif">
+<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/a0/bf/31/a0bf31b06c55ec7098e7233835be1169.gif">
 <!-- <img align="right" alt="coding" width="473" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">-->  
 
 <!-- <img align="right" alt="coding" width="473" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->  
