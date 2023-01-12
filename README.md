@@ -24,7 +24,7 @@
 
 - 🤝 I’m looking for **an innovative and challenging software development & testing environment**
 
-- 👨‍💻 All of my projects are available at [https://twitter.com/@bhijeet_choure](https://twitter.com/@bhijeet_choure)
+- 👨‍💻 All of my projects are available at https://github.com/abhijeet-choure
 
 - 📝 I regularly write articles on [https://twitter.com/@bhijeet_choure?t=D939zv-ldAinAYWK1v0DCg&s=09](https://twitter.com/@bhijeet_choure?t=D939zv-ldAinAYWK1v0DCg&s=09)
 
