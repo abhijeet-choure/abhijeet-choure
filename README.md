@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/abhijeet-choure
 
-- 📝 I regularly write articles on [https://twitter.com/@bhijeet_choure?t=D939zv-ldAinAYWK1v0DCg&s=09](https://twitter.com/@bhijeet_choure?t=D939zv-ldAinAYWK1v0DCg&s=09)
+- 📝 I regularly write articles on https://twitter.com/@bhijeet_choure
 
 - 💬 Ask me about **Smoke, Functional, System Integration, Retesting, Regression testing.**
 
