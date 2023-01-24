@@ -12,11 +12,21 @@
 <img align="right" alt="coding" width="384" src="https://i.pinimg.com/originals/a0/bf/31/a0bf31b06c55ec7098e7233835be1169.gif">
 <!-- <img align="right" alt="coding" width="473" src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960">-->  
 
-<!-- <img align="right" alt="coding" width="475" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->  
+<!-- <img align="right" alt="coding" width="475" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> --> 
+
+<p align="left">
+<a href="https://twitter.com/bhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhijeet_choure" height="40" width="40" /></a>
+<a href="https://instagram.com/abhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_choure" height="40" width="30" /></a> <a href="https://www.youtube.com/c/𝐀в𝔥ιנ𝑒ⓔ𝐓" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝐀в𝔥ιנ𝑒ⓔ𝐓" height="30" width="40" /></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet100793&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet100793" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhijeet_choure" target="blank"><img src="https://img.shields.io/twitter/follow/bhijeet_choure?logo=twitter&style=for-the-badge" alt="bhijeet_choure" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/bhijeet_choure" target="blank"><img src="https://img.shields.io/twitter/follow/bhijeet_choure?logo=twitter&style=for-the-badge" alt="bhijeet_choure" /></a> </p> --> 
+
+
+
+
 
 - 🔭 I’m currently working on Functional testing, Database testing and Automation Testing 
 
@@ -52,10 +62,11 @@
 
 
 
-<p align="left">
+<!--<p align="left">
 <a href="https://twitter.com/bhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhijeet_choure" height="40" width="40" /></a>
 <a href="https://instagram.com/abhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_choure" height="40" width="30" /></a> <a href="https://www.youtube.com/c/𝐀в𝔥ιנ𝑒ⓔ𝐓" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝐀в𝔥ιנ𝑒ⓔ𝐓" height="30" width="40" /></a>
-</p>
+</p>--> 
+
 
 
 
@@ -92,3 +103,10 @@ counting of visitors to this page.
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 </p>
+
+<p align="left">
+<a href="https://twitter.com/bhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhijeet_choure" height="40" width="40" /></a>
+<a href="https://instagram.com/abhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_choure" height="40" width="30" /></a> <a href="https://www.youtube.com/c/𝐀в𝔥ιנ𝑒ⓔ𝐓" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝐀в𝔥ιנ𝑒ⓔ𝐓" height="30" width="40" /></a>
+</p>
+
+
