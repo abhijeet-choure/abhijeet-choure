@@ -14,10 +14,7 @@
 
 <!-- <img align="right" alt="coding" width="475" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> --> 
 
-<p align="left">
-<a href="https://twitter.com/bhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhijeet_choure" height="40" width="40" /></a>
-<a href="https://instagram.com/abhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_choure" height="40" width="30" /></a> <a href="https://www.youtube.com/c/𝐀в𝔥ιנ𝑒ⓔ𝐓" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝐀в𝔥ιנ𝑒ⓔ𝐓" height="30" width="40" /></a>
-</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet100793&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet100793" /> </p>
@@ -56,6 +53,12 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
+
+<p align="left">
+<a href="https://twitter.com/bhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhijeet_choure" height="40" width="40" /></a>
+<a href="https://instagram.com/abhijeet_choure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijeet_choure" height="40" width="30" /></a> <a href="https://www.youtube.com/c/𝐀в𝔥ιנ𝑒ⓔ𝐓" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="𝐀в𝔥ιנ𝑒ⓔ𝐓" height="30" width="40" /></a>
+</p>
 
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhijeet_choure/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhijeet_choure) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bhijeeet) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhijeet_choure) 
